@@ -1,0 +1,120 @@
+
+.primary-color{
+    border: 1px solid ;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FF5400;
+    color: #FFF;
+}
+
+.container{
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.welcome{
+    display: flex;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+.title-tag{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+.meno{
+    list-style-type: none;
+    display: flex;
+    gap: 45px;
+    padding: 10px 0px;
+    justify-content: space-between;
+}
+/* banner section */
+
+.banner{
+    background-image: cover;
+    display: flex;
+    justify-content: center;
+
+}
+.banner-title {
+    position: absolute;
+    z-index: 1;
+    padding: 0px 0 0 0;
+    margin: -300px 0 0 357px;
+}
+.rehjkgkfg{
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+    padding: 16px;
+    justify-content: center;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+}
+
+.Explore{
+    display: flex;
+    justify-content: center;
+}
+.middel-tag{
+    display: flex;
+    justify-content: center;
+}
+/* image and conent styles */
+
+.image-section{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-between;
+}
+
+/* choose styles */
+.choose{
+
+}
+/* icon styles */
+/* bos styles */
+.box{
+    display: flex;
+    align-items: center;
+
+    justify-content:  center;
+}
+.box-1{
+    width: 573px;
+    height: 284px; 
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+}
+.box-2{
+    width: 573px;
+    height: 284px;
+    gap: 12px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+.box-3{
+    width: 573px;
+    height: 284px;
+    display: flex;
+    padding-left: 40px;
+    justify-content: center;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+}
+.fa-solid fa-
+/* .copyright-text{ */
+    text-align: center;
+    padding: 40px 410px;
+    
+    align-items: center;
+}
